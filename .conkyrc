@@ -86,35 +86,3 @@ ${downspeedgraph eth0 01020B 30E4F4}
 DLS:${downspeed eth0} kb/s $alignr total: ${totaldown eth0}
 ${upspeedgraph eth0 01020B 30E4F4}
 ULS:${upspeed eth0} kb/s $alignr total: ${totalup eth00}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
