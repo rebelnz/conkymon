@@ -6,9 +6,6 @@ function conky_main()
    local cs = cairo_xlib_surface_create(conky_window.display, conky_window.drawable, conky_window.visual, conky_window.width, conky_window.height)
    cr = cairo_create(cs)
 
-   font="Mono"
-   font_size=12
-   text="hello world"
    xpos,ypos=80,180
    red,green,blue,alpha=1,1,1,1
    font_slant=CAIRO_FONT_SLANT_NORMAL
